@@ -1,0 +1,99 @@
+div.container-fluid {
+  background-color:#3F484F;
+}
+
+a.navbar-brand.navbar-link {
+  background-color:#FF5A3C;
+  color:white;
+  text-align:center;
+}
+
+li.active {
+}
+
+nav.navbar.navbar-default {
+  margin-bottom:1px;
+}
+
+iframe {
+  float:right;
+}
+
+#legenda {
+  float:left;
+  height:800px;
+  width:13.6%;
+  background-color:#FF5A3C;
+}
+
+.carousel-inner > .item > a > img, .carousel-inner > .item > img, .img-responsive, .thumbnail a > img, .thumbnail > img {
+  display:block;
+  width:100%;
+  height:200px;
+} 
+
+#footer{
+    background: #40484f;
+    padding: 60px 0;
+    text-align: center;
+    color: white;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    position: relative;
+}
+
+#footer div#contact, footer div#sitemap, footer div#colofon{
+    width: 400px;
+    display: inline-block;
+    text-align: left;
+    vertical-align: top;
+    margin-bottom: 30px;
+}
+
+#footer div#contact a, footer div#sitemap a, footer div#colofon a{
+    display: block;
+}
+
+#footer div#left, #footer div#right{
+    width: 50%;
+    display: inline-block;
+    float: left;
+}
+
+#footer a{
+    color: white;
+    text-decoration: none;
+    line-height: 1.3em;
+}
+
+#footer h2{
+    font-size: 22px;
+    font-weight: bold;
+    margin: 0 0 10px 0;
+}
+
+.news{
+    min-height: 295px;
+    width: 1000px;
+    margin: 30px auto;
+    background: #f1ece6;
+    margin-bottom: 30px;
+    position: relative;
+    /*padding: 30px;
+*/    box-sizing: border-box;
+}
+
+#newsfeed{
+  margin-top: 350px;
+}
+
+.news h1{
+  color: #FF5A3C;
+}
+
+.picture img{
+  height: 220px;
+  width: 200px;
+  float: right;
+}
